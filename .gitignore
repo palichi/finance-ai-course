@@ -20,7 +20,7 @@ chroma_db/
 *.pickle
 *.sqlite3
 **.safetensors
-
+!day2/03_fss_api/data/stock_prices.csv
 
 # OS
 .DS_Store
