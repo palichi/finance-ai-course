@@ -1,0 +1,12 @@
+streamlit>=1.32.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+openai>=1.14.0
+langchain>=0.1.0
+langchain-openai>=0.0.8
+langchain-community>=0.0.20
+chromadb>=0.4.22
+python-dotenv>=1.0.0
+yfinance>=0.2.36

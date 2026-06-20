@@ -1,0 +1,27 @@
+# API Key - 절대 올리지 말 것!
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ChromaDB 데이터
+chroma_db/
+
+# 수집 데이터 (용량 큰 파일)
+*.csv
+*.parquet
+*.json
+*.zip
+*.bin
+*.pickle
+*.sqlite3
+**.safetensors
+
+
+# OS
+.DS_Store
+Thumbs.db
